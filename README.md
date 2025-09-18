@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhdimchev
-- 👀 I’m interested in JAVA,Mobile Computing and sometimes AI.
-- 🌱 I’m currently learning graph theory.
-- 💞️ I’m looking to collaborate on JAVA backend/frontend development.
+- 👀 I’m interested in solving meaningful problems. Preferably in Java or Go.
+- 🌱 I use Arch BTW
+- 💞️ I’m looking to collaborate on JAVA backend development.
 - 📫 You can reach me at dhdimchev@gmail.com
 
 <!---
